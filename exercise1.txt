@@ -1,0 +1,2 @@
+실습 과제 #1: kanban 어플리케이션을 github pages로 배포하고, google, github, 이메일로 회원가입하고 인증할 수 있게 수정한다. 회원가입 및 인증, 데이터 저장은 supabase의 기능을 사용한다. 만들어진 설계문서들을 업데이트하면서 작업해야 한다. 
+최종 commit log에 github pages의 주소를 적는다.
